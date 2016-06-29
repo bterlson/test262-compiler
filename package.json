@@ -1,0 +1,18 @@
+{
+  "name": "test262-compiler",
+  "version": "1.0.0",
+  "description": "Compiles test262 collateral into eshost-executable javascript",
+  "main": "lib/compiler.js",
+  "bin": {
+    "test262-compiler": "bin/test262-compiler.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Terlson",
+  "license": "BSD",
+  "dependencies": {
+    "test262-parser": "^2.0.7",
+    "yargs": "^4.7.1"
+  }
+}
