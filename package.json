@@ -1,6 +1,6 @@
 {
   "name": "test262-compiler",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Compiles test262 collateral into eshost-executable javascript",
   "main": "lib/compiler.js",
   "bin": {
